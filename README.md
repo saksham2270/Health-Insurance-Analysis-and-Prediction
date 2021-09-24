@@ -1,1 +1,1 @@
-# Insurance-Analysis-Prediction
+Exploratory Data Analysis and Prediction using Python and Linear Regression.
